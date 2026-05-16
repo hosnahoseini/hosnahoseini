@@ -4,7 +4,6 @@
 🎓 MMath Computer Science @ University of Waterloo  
 🔬 AI Researcher | LLMs, Information Retrieval, Explainability  
 💡 Working on robustness of LLM leaderboards, RAG systems, and multimodal models  
-👀 Seeking Fall 2026 AI / ML / Research internships  
 
 ---
 
